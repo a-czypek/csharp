@@ -1,0 +1,14 @@
+C:\Users\angel\OneDrive\Pulpit\Kolos I Programowanie\z1.zad4\z1.zad4\bin\Debug\net8.0\z1.zad4.exe
+C:\Users\angel\OneDrive\Pulpit\Kolos I Programowanie\z1.zad4\z1.zad4\bin\Debug\net8.0\z1.zad4.deps.json
+C:\Users\angel\OneDrive\Pulpit\Kolos I Programowanie\z1.zad4\z1.zad4\bin\Debug\net8.0\z1.zad4.runtimeconfig.json
+C:\Users\angel\OneDrive\Pulpit\Kolos I Programowanie\z1.zad4\z1.zad4\bin\Debug\net8.0\z1.zad4.dll
+C:\Users\angel\OneDrive\Pulpit\Kolos I Programowanie\z1.zad4\z1.zad4\bin\Debug\net8.0\z1.zad4.pdb
+C:\Users\angel\OneDrive\Pulpit\Kolos I Programowanie\z1.zad4\z1.zad4\obj\Debug\net8.0\z1.zad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Pulpit\Kolos I Programowanie\z1.zad4\z1.zad4\obj\Debug\net8.0\z1.zad4.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Pulpit\Kolos I Programowanie\z1.zad4\z1.zad4\obj\Debug\net8.0\z1.zad4.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Pulpit\Kolos I Programowanie\z1.zad4\z1.zad4\obj\Debug\net8.0\z1.zad4.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Pulpit\Kolos I Programowanie\z1.zad4\z1.zad4\obj\Debug\net8.0\z1.zad4.dll
+C:\Users\angel\OneDrive\Pulpit\Kolos I Programowanie\z1.zad4\z1.zad4\obj\Debug\net8.0\refint\z1.zad4.dll
+C:\Users\angel\OneDrive\Pulpit\Kolos I Programowanie\z1.zad4\z1.zad4\obj\Debug\net8.0\z1.zad4.pdb
+C:\Users\angel\OneDrive\Pulpit\Kolos I Programowanie\z1.zad4\z1.zad4\obj\Debug\net8.0\z1.zad4.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Pulpit\Kolos I Programowanie\z1.zad4\z1.zad4\obj\Debug\net8.0\ref\z1.zad4.dll
