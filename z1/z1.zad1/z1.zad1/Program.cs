@@ -12,7 +12,6 @@
             {
                 Console.WriteLine(i.ToString());
             }
-
         }
     }
 }
