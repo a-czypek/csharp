@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z2.zad4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57617495-C3CB-4D84-A6D8-7BE52E257BF5}|z2.zad4\\z2.zad4.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z2.zad4\\z2.zad4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57617495-C3CB-4D84-A6D8-7BE52E257BF5}|z2.zad4\\z2.zad4.csproj|solutionrelative:z2.zad4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57617495-C3CB-4D84-A6D8-7BE52E257BF5}|z2.zad4\\z2.zad4.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z2.zad4\\z2.zad4\\punkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57617495-C3CB-4D84-A6D8-7BE52E257BF5}|z2.zad4\\z2.zad4.csproj|solutionrelative:z2.zad4\\punkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Punkt.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z2.zad4\\z2.zad4\\Punkt.cs",
+              "RelativeDocumentMoniker": "z2.zad4\\Punkt.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z2.zad4\\z2.zad4\\Punkt.cs",
+              "RelativeToolTip": "z2.zad4\\Punkt.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T21:51:20.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z2.zad4\\z2.zad4\\Program.cs",
+              "RelativeDocumentMoniker": "z2.zad4\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z2.zad4\\z2.zad4\\Program.cs",
+              "RelativeToolTip": "z2.zad4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T21:51:04.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
