@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z3.zad2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F063E78-455B-416C-A49F-34C24D698A40}|z3.zad2\\z3.zad2.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z3.zad2\\z3.zad2\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F063E78-455B-416C-A49F-34C24D698A40}|z3.zad2\\z3.zad2.csproj|solutionrelative:z3.zad2\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F063E78-455B-416C-A49F-34C24D698A40}|z3.zad2\\z3.zad2.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z3.zad2\\z3.zad2\\badania.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F063E78-455B-416C-A49F-34C24D698A40}|z3.zad2\\z3.zad2.csproj|solutionrelative:z3.zad2\\badania.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F063E78-455B-416C-A49F-34C24D698A40}|z3.zad2\\z3.zad2.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z3.zad2\\z3.zad2\\wlasciciele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F063E78-455B-416C-A49F-34C24D698A40}|z3.zad2\\z3.zad2.csproj|solutionrelative:z3.zad2\\wlasciciele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F063E78-455B-416C-A49F-34C24D698A40}|z3.zad2\\z3.zad2.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z3.zad2\\z3.zad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F063E78-455B-416C-A49F-34C24D698A40}|z3.zad2\\z3.zad2.csproj|solutionrelative:z3.zad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Badania.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z3.zad2\\z3.zad2\\Badania.cs",
+              "RelativeDocumentMoniker": "z3.zad2\\Badania.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z3.zad2\\z3.zad2\\Badania.cs",
+              "RelativeToolTip": "z3.zad2\\Badania.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA5wA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:29:29.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wlasciciele.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z3.zad2\\z3.zad2\\Wlasciciele.cs",
+              "RelativeDocumentMoniker": "z3.zad2\\Wlasciciele.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z3.zad2\\z3.zad2\\Wlasciciele.cs",
+              "RelativeToolTip": "z3.zad2\\Wlasciciele.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:25:17.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Samochod.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z3.zad2\\z3.zad2\\Samochod.cs",
+              "RelativeDocumentMoniker": "z3.zad2\\Samochod.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z3.zad2\\z3.zad2\\Samochod.cs",
+              "RelativeToolTip": "z3.zad2\\Samochod.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:19:59.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z3.zad2\\z3.zad2\\Program.cs",
+              "RelativeDocumentMoniker": "z3.zad2\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z3.zad2\\z3.zad2\\Program.cs",
+              "RelativeToolTip": "z3.zad2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:19:41.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
