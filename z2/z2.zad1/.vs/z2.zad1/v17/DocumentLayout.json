@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Pulpit\\Kolos I Programowanie\\z2\\z2.zad1\\",
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z2\\z2.zad1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08AE2970-4055-416A-90E0-A9E020729D69}|z2.zad1\\z2.zad1.csproj|c:\\users\\angel\\onedrive\\pulpit\\kolos i programowanie\\z2\\z2.zad1\\z2.zad1\\kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08AE2970-4055-416A-90E0-A9E020729D69}|z2.zad1\\z2.zad1.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z2\\z2.zad1\\z2.zad1\\kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08AE2970-4055-416A-90E0-A9E020729D69}|z2.zad1\\z2.zad1.csproj|solutionrelative:z2.zad1\\kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08AE2970-4055-416A-90E0-A9E020729D69}|z2.zad1\\z2.zad1.csproj|c:\\users\\angel\\onedrive\\pulpit\\kolos i programowanie\\z2\\z2.zad1\\z2.zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08AE2970-4055-416A-90E0-A9E020729D69}|z2.zad1\\z2.zad1.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z2\\z2.zad1\\z2.zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08AE2970-4055-416A-90E0-A9E020729D69}|z2.zad1\\z2.zad1.csproj|solutionrelative:z2.zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Kolo.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\Kolos I Programowanie\\z2\\z2.zad1\\z2.zad1\\Kolo.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z2\\z2.zad1\\z2.zad1\\Kolo.cs",
               "RelativeDocumentMoniker": "z2.zad1\\Kolo.cs",
-              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\Kolos I Programowanie\\z2\\z2.zad1\\z2.zad1\\Kolo.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z2\\z2.zad1\\z2.zad1\\Kolo.cs",
               "RelativeToolTip": "z2.zad1\\Kolo.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAowEQAAABvAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvy4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T19:10:55.092Z",
               "EditorCaption": ""
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\Kolos I Programowanie\\z2\\z2.zad1\\z2.zad1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z2\\z2.zad1\\z2.zad1\\Program.cs",
               "RelativeDocumentMoniker": "z2.zad1\\Program.cs",
-              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\Kolos I Programowanie\\z2\\z2.zad1\\z2.zad1\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z2\\z2.zad1\\z2.zad1\\Program.cs",
               "RelativeToolTip": "z2.zad1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T19:10:37.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T19:10:37.323Z"
             }
           ]
         }

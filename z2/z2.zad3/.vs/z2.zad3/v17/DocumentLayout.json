@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z2.zad3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45353670-DAE1-4BD1-82C8-CDE5095C7ED5}|z2.zad3\\z2.zad3.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z2.zad3\\z2.zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45353670-DAE1-4BD1-82C8-CDE5095C7ED5}|z2.zad3\\z2.zad3.csproj|solutionrelative:z2.zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E42AFEEC-2836-4A9D-8C26-4F6657B8C284}|z2.zad3\\z2.zad3.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z2.zad3\\z2.zad3\\daty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42AFEEC-2836-4A9D-8C26-4F6657B8C284}|z2.zad3\\z2.zad3.csproj|solutionrelative:z2.zad3\\daty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42AFEEC-2836-4A9D-8C26-4F6657B8C284}|z2.zad3\\z2.zad3.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z2.zad3\\z2.zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42AFEEC-2836-4A9D-8C26-4F6657B8C284}|z2.zad3\\z2.zad3.csproj|solutionrelative:z2.zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Daty.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z2.zad3\\z2.zad3\\Daty.cs",
+              "RelativeDocumentMoniker": "z2.zad3\\Daty.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z2.zad3\\z2.zad3\\Daty.cs",
+              "RelativeToolTip": "z2.zad3\\Daty.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAUwD4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:43:39.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z2.zad3\\z2.zad3\\Program.cs",
               "RelativeDocumentMoniker": "z2.zad3\\Program.cs",
               "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z2.zad3\\z2.zad3\\Program.cs",
               "RelativeToolTip": "z2.zad3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T19:31:56.748Z",
+              "WhenOpened": "2024-04-06T19:42:02.035Z",
               "EditorCaption": ""
             }
           ]
