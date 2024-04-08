@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z5.zad1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB35CCF4-C666-4FF3-9E5B-9A0030A83BA5}|z5.zad1\\z5.zad1.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z5.zad1\\z5.zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB35CCF4-C666-4FF3-9E5B-9A0030A83BA5}|z5.zad1\\z5.zad1.csproj|solutionrelative:z5.zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB35CCF4-C666-4FF3-9E5B-9A0030A83BA5}|z5.zad1\\z5.zad1.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z5.zad1\\z5.zad1\\ulamek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB35CCF4-C666-4FF3-9E5B-9A0030A83BA5}|z5.zad1\\z5.zad1.csproj|solutionrelative:z5.zad1\\ulamek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ulamek.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z5.zad1\\z5.zad1\\Ulamek.cs",
+              "RelativeDocumentMoniker": "z5.zad1\\Ulamek.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z5.zad1\\z5.zad1\\Ulamek.cs",
+              "RelativeToolTip": "z5.zad1\\Ulamek.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:47:08.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z5.zad1\\z5.zad1\\Program.cs",
+              "RelativeDocumentMoniker": "z5.zad1\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z5.zad1\\z5.zad1\\Program.cs",
+              "RelativeToolTip": "z5.zad1\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA5wBQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:45:31.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
