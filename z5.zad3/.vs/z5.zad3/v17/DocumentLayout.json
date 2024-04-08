@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z5.zad3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0CF0E0-8E51-4A7A-BC64-F409C032522B}|z5.zad3\\z5.zad3.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z5.zad3\\z5.zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0CF0E0-8E51-4A7A-BC64-F409C032522B}|z5.zad3\\z5.zad3.csproj|solutionrelative:z5.zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0CF0E0-8E51-4A7A-BC64-F409C032522B}|z5.zad3\\z5.zad3.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z5.zad3\\z5.zad3\\wektor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0CF0E0-8E51-4A7A-BC64-F409C032522B}|z5.zad3\\z5.zad3.csproj|solutionrelative:z5.zad3\\wektor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wektor.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z5.zad3\\z5.zad3\\Wektor.cs",
+              "RelativeDocumentMoniker": "z5.zad3\\Wektor.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z5.zad3\\z5.zad3\\Wektor.cs",
+              "RelativeToolTip": "z5.zad3\\Wektor.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwGoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T20:51:03.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z5.zad3\\z5.zad3\\Program.cs",
+              "RelativeDocumentMoniker": "z5.zad3\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z5.zad3\\z5.zad3\\Program.cs",
+              "RelativeToolTip": "z5.zad3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T20:50:39.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
