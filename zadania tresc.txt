@@ -1,0 +1,174 @@
+Zestaw 1:
+	Zadanie 1:
+o	Przygotuj metodę (funkcję) pozwalającą na obliczenie obwodu koła o promieniu r. Przygotuj program prezentujący metodę w działaniu.
+
+Zadanie 2:
+o	Przygotuj metodę (funkcję), która w przekazanym do metody łańcuchu znaków zamieni wszystkie samogłoski na znak „*” gwiazdki. Przygotuj program prezentujący metodę w działaniu.
+
+Zadanie 3:
+o	Przygotuj klasę Student (imię, nazwisko, nr albumu, średnia ocen). W klasie Student utwórz metody, które pozwolą odczytać oraz zmodyfikować imię, nazwisko, nr albumu oraz średnią ocen. Dodatkowo w klasie Student przygotuj metodę, która pozwoli na obliczenie wysokości stypendium za wyniki w nauczaniu (wykorzystaj dane przedstawione poniżej). Pamiętaj, że średnia ocen powinna być z przedziału 2,0-5,0. Przygotuj przykład użycia opracowanej klasy.
+
+Średnia ocen:	Kwota stypendium:
+2.00 – 4.00	0,00zł
+4.01 – 4.80	300,00 zł
+4.80 – 5.00	600,00zł
+
+		W klasie Student dokonaj następujących modyfikacji:
+• Do klasy Student dodaj konstruktor.
+• Przygotowane metody przekształć we właściwości.
+
+	Zadanie 4:
+o	Przygotuj klasę, która pozwoli na rejestrację zużycia energii elektrycznej. Klasa powinna pozwalać na:
+• rejestrację początkowego i bieżącego stanu licznika energii,
+• uzyskanie danych o początkowym oraz bieżącym stanie licznika,
+• obliczanie zużytej energii.
+
+	Zadanie 5:
+o	Przygotuj klasę, która pozwoli na reprezentację danych o punkcie na płaszczyźnie. Oprócz wartości rzeczywistych współrzędnych punktu klasa powinna pozwolić na rejestrację koloru (liczba całkowita z przedziału od 0 do 255) punktu.
+
+
+Zadanie 6:
+o	Przygotuj klasę prostopadłościan, która pozwoli na reprezentację danych opisujących długość, szerokość i wysokość prostopadłościanu wyrażona w centymetrach. W klasie zaimplementuj metody pozwalające na obliczenie objętości prostopadłościanu oraz porównanie objętości dwóch prostopadłościanów. W klasie zaimplementuj konstruktory;
+• bezargumentowym, który pozwoli na zainicjowanie wymiarów prostopadłościanu wartością 1 centymetr,
+• konstruktor, który pozwoli na zaimplementowanie wymiarów prostopadłościanu wartościami miększymi od zera.
+
+Zestaw 2:
+
+	Zadanie 1:
+o	Przygotuj klasę Kolo pozwalającą na reprezentowanie kół o podanym promieniu. Klasa powinna zwracać:
+1. Konstruktor bezargumentowy inicjujący promień koła wartością 1
+2. Konstruktor pozwalający zainicjować konstruktor dowolną wartością większą od zera. Konstruktor powinien zgłaszać wyjątek, gdy promień koła jest błędny.
+3. Właściwość pozwalającą na odczytanie i zmianę promienia koła. Właściwość powinna zgłaszać wyjątek, gdy promień jest błędny.
+4. Właściwość pozwalającą na obliczenie pola powierzchni koła
+5. Właściwość pozwalającą na obliczenie obwodu koła
+6. Właściwość pozwalającą na odczytanie i zmianę średnicy koła
+7. Metodę pozwalającą na sprawdzeni czy dwa koła są równe (koła są równe, gdy ich promienie są równe)
+o	Przygotuj program prezentujący klasę Kolo w działaniu (zwróć uwagę na obsługę zgłaszanych wyjątków).
+
+Zadanie 2:
+o	Przygotuj klasę czworokąt pozwalającą na reprezentację figur płaskich z wykorzystaniem współrzędnych wierzchołków. Dodatkowo przyjmij, że figury muszą się w całości mieścić na płaszczyźnie reprezentującej ekran o rozdzielczości 1024x768. Klasa powinna zawierać:
+1. Konstruktor
+2. Właściwość obwódFigury
+Klasa powinna zwracać wyjątki w sytuacjach, gdy punkty wychodzą poza podany zakres. Przygotuj kod prezentujący program w działaniu.
+
+	Zadanie 3:
+o	Przygotuj klasę DATY pozwalającą na obsługę dat. Klasa powinna zawierać. Konstruktory:
+1. DATY (int Rok, int Miesiąc, int Dzień)
+2. DATY (DATY data)
+3. DATY (int Rok, string NazwaMiesiaca, int Dzień)
+Pola:
+1. _rok //od 1600 do 9999
+2. _miesiac //od 1 do 12
+3. _dzien //od 1 do 31
+4. _numerDniaWTygodniu //od 0 do 6
+5. _nazwaDniaTygodnia //od niedziela do sobota
+6. _nazwaMiesiaca //od styczeń do grudzień
+Właściwości:
+1. Odczytanie i zmiana Daty
+2. Odczytanie i zmiana numeru Roku
+3. Odczytanie i zmiana numeru Miesiąca
+4. Odczytanie i zmiana numeru Dnia
+5. Odczytanie i zmiana nazwy Miesiąca
+6. Odczytanie numeru dnia tygodnia
+7. Odczytanie nazwy dnia tygodnia
+Metody:
+1. string krótkaData() // data w formacie yyyy-mm-dd
+2. string długaData() // data w formacie dzień nazwa miesiąca rok (12 styczeń 2012)
+3. string szczegółowaData() // data w formacie dzień nazwa miesiąca rok, nazwa dnia tygodnia (25 luty 2012, sobota)
+Składowe klasy powinny zwracać odpowiednie wyjątki w sytuacjach, gdy podano nieprawidłowe wartości dla roku, dnia, miesiąca. Przygotuj program prezentujący klasę w działaniu.
+
+Zadanie 4:
+o	Przygotuj klasę Punkt reprezentującą punkty na płaszczyźnie. W klasie punkt utwórz konstruktor (konstruktory). Właściwości pozwalające na odczytanie i zmianę współrzędnych punktu. Dodatkowo w klasie punkt przygotuj metody:
+• przesuwającą punkt o podaną wektor
+• obliczającą długość odcinka
+• sprawdzająca czy dwa punkty są równe.
+
+Zestaw 3:
+
+	Zadanie 2:
+o	Przygotuj program pozwalający na gromadzenie danych o historii samochodu. W programie powinny być gromadzone dane o:
+• Parametrach samochodu,
+• Właścicielach samochodu,
+• Badaniach kontrolnych.
+
+Zestaw 4:
+
+	Zadanie 1:
+o	Przygotuj program zawierający implementację struktury punkt2DS oraz klasy punkt2DC reprezentujące punkty na płaszczyźnie. W strukturze oraz klasie zaimplementuj:
+1. Konstruktor bezargumentowy inicjujący współrzędne punktu wartością zero,
+2. Przeciążony konstruktor pozwalający zainicjować współrzędne punktu dowolną wartością,
+3. Właściwości pozwalające na odczytanie oraz zmianę wartości współrzędnej x oraz y,
+4. Metodę pozwalającą przesunąć punkt o wektor v=[a, b].
+Przygotuj program prezentujący działanie przygotowanej struktury oraz klasy. W części głównej programu przygotuj metody statyczne pozwalająca na pomnożenie punktu2DS oraz punktu2DC przez liczbę.
+
+	Zadanie 2:
+o	Przygotuj program zawierający implementację:
+• Typów wyliczeniowych, PoryRoku, Miesiace
+• Struktury Dzien zawierającej:
+	Właściwości automatyczne: DzienMiesiaca, Miesiac, PoraRoku
+	Konstruktor
+	Metodę wyświetl() – wyświetlającą numer dnia miesiąca, nazwę miesiąca, porę roku.
+Przygotuj program prezentujący działanie przygotowanej struktury
+
+Zestaw 5:
+
+	Zadanie 1:
+o	Przygotuj strukturę pozwalająca na reprezentację ułamków zwykłych (licznik, mianownik). Struktura powinna zawierać:
+• Konstruktor
+• Właściwości automatyczne pozwalające odczytać aktualną wartość licznika i mianownika
+• Przeciążone operatory:
+ +, - (jednoargumentowe)
+ +, -, *, / (dwuargumentowe)
+
+	Zadanie 2:
+o	Przygotuj klasę Punkt pozwalającą na reprezentację punktów na płaszczyźnie. W klasie zaimplementuj:
+• Konstruktor (konstruktory),
+• Właściwości automatyczne,
+• Przeciążony operator * pozwalający na pomnożenie punktu przez liczbę
+k * (x, y) = (k*x, k*y)
+• Przeciążony operator == sprawdzający czy dwa punkty są równe
+(x, y) == (a, b) jeżeli (x == a, y == b)
+
+	Zadanie 3:
+o	Przygotuj klasę reprezentującą wektory liczb rzeczywistych o stałej długości n np.
+[a1, a2, a3] – wektor o długości 3
+[b1, b2, b3, b4] – wektor o długości 4
+[c1, c2, ... cn] – wektor o długości n
+Klasa powinna zawierać:
+1) Konstruktory:
+a) Inicjujący wektor z wykorzystaniem tablicy liczb rzeczywistych
+b) Inicjujący wektor n (gdzie n>0) losowo wybranymi liczbami rzeczywistymi
+2) Właściwości
+3) Metodę iloczyn:
+a) Mnożącą wektor przez liczbę rzeczywistą r * [a1, a2, ... an] = [r*a1, r*a2, ... r*an]
+4) Przeciążony operator * realizujący mnożenie dwóch wektorów
+[a1, a2, ... an] * [b1, b2, ... bn] = [a1*b1, a2*b2, ... an*bn]
+5) Przeciążone operatory == oraz !=
+
+	Zadanie 4:
+o	Przygotuj klasę reprezentującą daty z kalendarza. Data reprezentowana za pomocą trzech pól Rok, Miesiąc, Dzień. W klasie zaimplementuj:
+• Konstruktor (konstruktory);
+• Właściwości,
+• Przeciążony operator + plus - dodający do daty podaną liczbę dni
+• Przeciążony operator – minus – odejmujący od daty podaną liczbę dni.
+
+Zestaw 6:
+
+	Zadanie 1:
+o	Korzystając z dołączonego do zestawu projektu (Zestaw6Zadania1.zip) uzupełnij klasę Macierz o:
+• Przeciążony konstruktor
+• Właściwość macierz
+• Przeciążony operator + obsługujący dodawanie dwóch macierzy kwadratowych
+• Przeciążony operator * obsługujący mnożenie macierzy przez liczbę
+• Metodę realizującą operację transpozycji macierzy
+
+	Zadanie 2:
+o	W klasie Walec uzupełnij brakujące składowe oraz brakujący kod w metodach i właściwościach.
+
+Zadanie 3:
+o	Uzupełnij klasę Punkt3D o:
+• przeciążone konstruktory
+• przeciążone metody pozwalające na przesunięcie punktu o podany wektor
+Punkt A=(x, y, z) przesunięty o wektor v=[a, b, c] daje punkt A’=(x+a, y+b, z+c)
+• przeciążony operator ==
+	
