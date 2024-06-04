@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Pulpit\\Kolos I Programowanie\\z1\\z1.zad6\\",
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z1\\z1.zad6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C803B49-C585-4AF8-95BF-43A87E89CC02}|z1.zad6\\z1.zad6.csproj|c:\\users\\angel\\onedrive\\pulpit\\kolos i programowanie\\z1\\z1.zad6\\z1.zad6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C803B49-C585-4AF8-95BF-43A87E89CC02}|z1.zad6\\z1.zad6.csproj|solutionrelative:z1.zad6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C803B49-C585-4AF8-95BF-43A87E89CC02}|z1.zad6\\z1.zad6.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z1\\z1.zad6\\z1.zad6\\prostopadloscian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C803B49-C585-4AF8-95BF-43A87E89CC02}|z1.zad6\\z1.zad6.csproj|solutionrelative:z1.zad6\\prostopadloscian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C803B49-C585-4AF8-95BF-43A87E89CC02}|z1.zad6\\z1.zad6.csproj|c:\\users\\angel\\onedrive\\pulpit\\kolos i programowanie\\z1\\z1.zad6\\z1.zad6\\prostopadloscian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C803B49-C585-4AF8-95BF-43A87E89CC02}|z1.zad6\\z1.zad6.csproj|solutionrelative:z1.zad6\\prostopadloscian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C803B49-C585-4AF8-95BF-43A87E89CC02}|z1.zad6\\z1.zad6.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z1\\z1.zad6\\z1.zad6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C803B49-C585-4AF8-95BF-43A87E89CC02}|z1.zad6\\z1.zad6.csproj|solutionrelative:z1.zad6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Prostopadloscian.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\Kolos I Programowanie\\z1\\z1.zad6\\z1.zad6\\Prostopadloscian.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z1\\z1.zad6\\z1.zad6\\Prostopadloscian.cs",
               "RelativeDocumentMoniker": "z1.zad6\\Prostopadloscian.cs",
-              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\Kolos I Programowanie\\z1\\z1.zad6\\z1.zad6\\Prostopadloscian.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z1\\z1.zad6\\z1.zad6\\Prostopadloscian.cs",
               "RelativeToolTip": "z1.zad6\\Prostopadloscian.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowCYAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T18:35:20.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\Kolos I Programowanie\\z1\\z1.zad6\\z1.zad6\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z1\\z1.zad6\\z1.zad6\\Program.cs",
               "RelativeDocumentMoniker": "z1.zad6\\Program.cs",
-              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\Kolos I Programowanie\\z1\\z1.zad6\\z1.zad6\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z1\\z1.zad6\\z1.zad6\\Program.cs",
               "RelativeToolTip": "z1.zad6\\Program.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAtwBIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

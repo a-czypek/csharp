@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Downloads\\z13zad1\\Zestaw13Zadanie1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07960BDB-200F-44F2-A1EA-F895D23EA413}|Zestaw13Zadanie1\\Zestaw13Zadanie1.csproj|c:\\users\\angel\\downloads\\z13zad1\\zestaw13zadanie1\\zestaw13zadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07960BDB-200F-44F2-A1EA-F895D23EA413}|Zestaw13Zadanie1\\Zestaw13Zadanie1.csproj|solutionrelative:zestaw13zadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07960BDB-200F-44F2-A1EA-F895D23EA413}|Zestaw13Zadanie1\\Zestaw13Zadanie1.csproj|c:\\users\\angel\\downloads\\z13zad1\\zestaw13zadanie1\\zestaw13zadanie1\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07960BDB-200F-44F2-A1EA-F895D23EA413}|Zestaw13Zadanie1\\Zestaw13Zadanie1.csproj|solutionrelative:zestaw13zadanie1\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07960BDB-200F-44F2-A1EA-F895D23EA413}|Zestaw13Zadanie1\\Zestaw13Zadanie1.csproj|c:\\users\\angel\\downloads\\z13zad1\\zestaw13zadanie1\\zestaw13zadanie1\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07960BDB-200F-44F2-A1EA-F895D23EA413}|Zestaw13Zadanie1\\Zestaw13Zadanie1.csproj|solutionrelative:zestaw13zadanie1\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07960BDB-200F-44F2-A1EA-F895D23EA413}|Zestaw13Zadanie1\\Zestaw13Zadanie1.csproj|c:\\users\\angel\\downloads\\z13zad1\\zestaw13zadanie1\\zestaw13zadanie1\\punkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07960BDB-200F-44F2-A1EA-F895D23EA413}|Zestaw13Zadanie1\\Zestaw13Zadanie1.csproj|solutionrelative:zestaw13zadanie1\\punkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\z13zad1\\Zestaw13Zadanie1\\Zestaw13Zadanie1\\Smartphone.cs",
+              "RelativeDocumentMoniker": "Zestaw13Zadanie1\\Smartphone.cs",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\z13zad1\\Zestaw13Zadanie1\\Zestaw13Zadanie1\\Smartphone.cs",
+              "RelativeToolTip": "Zestaw13Zadanie1\\Smartphone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:38:19.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Osoba.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\z13zad1\\Zestaw13Zadanie1\\Zestaw13Zadanie1\\Osoba.cs",
+              "RelativeDocumentMoniker": "Zestaw13Zadanie1\\Osoba.cs",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\z13zad1\\Zestaw13Zadanie1\\Zestaw13Zadanie1\\Osoba.cs",
+              "RelativeToolTip": "Zestaw13Zadanie1\\Osoba.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:14:04.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Punkt.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\z13zad1\\Zestaw13Zadanie1\\Zestaw13Zadanie1\\Punkt.cs",
+              "RelativeDocumentMoniker": "Zestaw13Zadanie1\\Punkt.cs",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\z13zad1\\Zestaw13Zadanie1\\Zestaw13Zadanie1\\Punkt.cs",
+              "RelativeToolTip": "Zestaw13Zadanie1\\Punkt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:02:34.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\z13zad1\\Zestaw13Zadanie1\\Zestaw13Zadanie1\\Program.cs",
+              "RelativeDocumentMoniker": "Zestaw13Zadanie1\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\z13zad1\\Zestaw13Zadanie1\\Zestaw13Zadanie1\\Program.cs",
+              "RelativeToolTip": "Zestaw13Zadanie1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:08:59.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z8.zad1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB904EB-E82A-43DA-8264-CB5E152E77F8}|z8.zad1\\z8.zad1.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z8.zad1\\z8.zad1\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB904EB-E82A-43DA-8264-CB5E152E77F8}|z8.zad1\\z8.zad1.csproj|solutionrelative:z8.zad1\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB904EB-E82A-43DA-8264-CB5E152E77F8}|z8.zad1\\z8.zad1.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z8.zad1\\z8.zad1\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB904EB-E82A-43DA-8264-CB5E152E77F8}|z8.zad1\\z8.zad1.csproj|solutionrelative:z8.zad1\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB904EB-E82A-43DA-8264-CB5E152E77F8}|z8.zad1\\z8.zad1.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z8.zad1\\z8.zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB904EB-E82A-43DA-8264-CB5E152E77F8}|z8.zad1\\z8.zad1.csproj|solutionrelative:z8.zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z8.zad1\\z8.zad1\\Autor.cs",
+              "RelativeDocumentMoniker": "z8.zad1\\Autor.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z8.zad1\\z8.zad1\\Autor.cs",
+              "RelativeToolTip": "z8.zad1\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:05:50.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Osoba.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z8.zad1\\z8.zad1\\Osoba.cs",
+              "RelativeDocumentMoniker": "z8.zad1\\Osoba.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z8.zad1\\z8.zad1\\Osoba.cs",
+              "RelativeToolTip": "z8.zad1\\Osoba.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:04:41.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z8.zad1\\z8.zad1\\Program.cs",
+              "RelativeDocumentMoniker": "z8.zad1\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z8.zad1\\z8.zad1\\Program.cs",
+              "RelativeToolTip": "z8.zad1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:00:44.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

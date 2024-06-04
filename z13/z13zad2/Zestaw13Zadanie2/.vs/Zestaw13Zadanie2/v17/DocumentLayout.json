@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Downloads\\z13zad2\\Zestaw13Zadanie2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{421D63B7-0003-485D-A88B-D0BC86F794B4}|Zestaw13Zadanie2\\Zestaw13Zadanie2.csproj|c:\\users\\angel\\downloads\\z13zad2\\zestaw13zadanie2\\zestaw13zadanie2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421D63B7-0003-485D-A88B-D0BC86F794B4}|Zestaw13Zadanie2\\Zestaw13Zadanie2.csproj|solutionrelative:zestaw13zadanie2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421D63B7-0003-485D-A88B-D0BC86F794B4}|Zestaw13Zadanie2\\Zestaw13Zadanie2.csproj|c:\\users\\angel\\downloads\\z13zad2\\zestaw13zadanie2\\zestaw13zadanie2\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421D63B7-0003-485D-A88B-D0BC86F794B4}|Zestaw13Zadanie2\\Zestaw13Zadanie2.csproj|solutionrelative:zestaw13zadanie2\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produkt.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\z13zad2\\Zestaw13Zadanie2\\Zestaw13Zadanie2\\Produkt.cs",
+              "RelativeDocumentMoniker": "Zestaw13Zadanie2\\Produkt.cs",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\z13zad2\\Zestaw13Zadanie2\\Zestaw13Zadanie2\\Produkt.cs",
+              "RelativeToolTip": "Zestaw13Zadanie2\\Produkt.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:57:09.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Downloads\\z13zad2\\Zestaw13Zadanie2\\Zestaw13Zadanie2\\Program.cs",
+              "RelativeDocumentMoniker": "Zestaw13Zadanie2\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\Downloads\\z13zad2\\Zestaw13Zadanie2\\Zestaw13Zadanie2\\Program.cs",
+              "RelativeToolTip": "Zestaw13Zadanie2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:52:06.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

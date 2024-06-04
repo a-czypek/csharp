@@ -1,0 +1,31 @@
+﻿<Window x:Class="z16.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:z16"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Menu>
+            <MenuItem Header="Produkty">
+                <MenuItem Header="Nowy produkt" />
+                <MenuItem Header="Przeglądanie listy" Click="MenuItem_Click" />
+                <MenuItem Header="Zapisz produkty"/>
+                <MenuItem Header="Wczytaj produkty"/>
+            </MenuItem>
+            <MenuItem Header="O programie" />
+            <MenuItem Header="Wyjście" Click="MenuItem_Click_1" />
+        </Menu>
+        <Grid>
+            <Label x:Name="LSymbol" Content="Symbol Produktu:" HorizontalAlignment="Left" Margin="60,78,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Book Antiqua" FontWeight="Bold"/>
+            <Label x:Name="LNazwa" Content="Nazwa Produktu:" HorizontalAlignment="Left" Margin="60,137,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Book Antiqua" FontWeight="Bold"/>
+            <Label x:Name="LJednostka" Content="Jednostka Miary:" HorizontalAlignment="Left" Margin="61,197,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Book Antiqua" FontWeight="Bold"/>
+            <Label x:Name="LDodawanie" Content="Dodawanie Produktu" HorizontalAlignment="Left" Margin="277,26,0,0" VerticalAlignment="Top" FontFamily="Book Antiqua" FontWeight="Bold" FontSize="16"/>
+            <TextBox x:Name="TBSymbol" HorizontalAlignment="Left" Margin="285,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFFFECEC"/>
+            <TextBox x:Name="TBNazwa" HorizontalAlignment="Left" Margin="285,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFFFECEC"/>
+            <TextBox x:Name="TBJednostka" HorizontalAlignment="Left" Margin="285,203,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFFFECEC"/>
+            <Button x:Name="BZapamietaj" Content="Zapamiętaj" HorizontalAlignment="Left" Margin="25,274,0,0" VerticalAlignment="Top" Background="#FF89D7FF" FontSize="22" FontFamily="Book Antiqua" Width="696" Click="BZapamietaj_Click"/>
+        </Grid>
+    </Grid>
+</Window>

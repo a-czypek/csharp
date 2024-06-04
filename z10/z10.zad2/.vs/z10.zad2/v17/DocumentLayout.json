@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z10.zad2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01D1D153-4394-49C1-A312-87AAC539DEB4}|z10.zad2\\z10.zad2.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z10.zad2\\z10.zad2\\trapez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D1D153-4394-49C1-A312-87AAC539DEB4}|z10.zad2\\z10.zad2.csproj|solutionrelative:z10.zad2\\trapez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D1D153-4394-49C1-A312-87AAC539DEB4}|z10.zad2\\z10.zad2.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z10.zad2\\z10.zad2\\kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D1D153-4394-49C1-A312-87AAC539DEB4}|z10.zad2\\z10.zad2.csproj|solutionrelative:z10.zad2\\kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D1D153-4394-49C1-A312-87AAC539DEB4}|z10.zad2\\z10.zad2.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z10.zad2\\z10.zad2\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D1D153-4394-49C1-A312-87AAC539DEB4}|z10.zad2\\z10.zad2.csproj|solutionrelative:z10.zad2\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D1D153-4394-49C1-A312-87AAC539DEB4}|z10.zad2\\z10.zad2.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z10.zad2\\z10.zad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D1D153-4394-49C1-A312-87AAC539DEB4}|z10.zad2\\z10.zad2.csproj|solutionrelative:z10.zad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trapez.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z10.zad2\\z10.zad2\\Trapez.cs",
+              "RelativeDocumentMoniker": "z10.zad2\\Trapez.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z10.zad2\\z10.zad2\\Trapez.cs",
+              "RelativeToolTip": "z10.zad2\\Trapez.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwB4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:25:07.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kolo.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z10.zad2\\z10.zad2\\Kolo.cs",
+              "RelativeDocumentMoniker": "z10.zad2\\Kolo.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z10.zad2\\z10.zad2\\Kolo.cs",
+              "RelativeToolTip": "z10.zad2\\Kolo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:04:44.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z10.zad2\\z10.zad2\\Figura.cs",
+              "RelativeDocumentMoniker": "z10.zad2\\Figura.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z10.zad2\\z10.zad2\\Figura.cs",
+              "RelativeToolTip": "z10.zad2\\Figura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:02:16.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z10.zad2\\z10.zad2\\Program.cs",
+              "RelativeDocumentMoniker": "z10.zad2\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z10.zad2\\z10.zad2\\Program.cs",
+              "RelativeToolTip": "z10.zad2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:51:34.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

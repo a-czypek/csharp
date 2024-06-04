@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDC708E-2C04-4C42-B041-BD09FFAB820A}|z16\\z16.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z16\\z16\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDC708E-2C04-4C42-B041-BD09FFAB820A}|z16\\z16.csproj|solutionrelative:z16\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDC708E-2C04-4C42-B041-BD09FFAB820A}|z16\\z16.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z16\\z16\\oknoproduktow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDC708E-2C04-4C42-B041-BD09FFAB820A}|z16\\z16.csproj|solutionrelative:z16\\oknoproduktow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDC708E-2C04-4C42-B041-BD09FFAB820A}|z16\\z16.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z16\\z16\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDC708E-2C04-4C42-B041-BD09FFAB820A}|z16\\z16.csproj|solutionrelative:z16\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDC708E-2C04-4C42-B041-BD09FFAB820A}|z16\\z16.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z16\\z16\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDC708E-2C04-4C42-B041-BD09FFAB820A}|z16\\z16.csproj|solutionrelative:z16\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDC708E-2C04-4C42-B041-BD09FFAB820A}|z16\\z16.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z16\\z16\\oknoproduktow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDC708E-2C04-4C42-B041-BD09FFAB820A}|z16\\z16.csproj|solutionrelative:z16\\oknoproduktow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDC708E-2C04-4C42-B041-BD09FFAB820A}|z16\\z16.csproj|c:\\users\\angel\\onedrive\\pulpit\\c sharp\\z16\\z16\\jednostka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDC708E-2C04-4C42-B041-BD09FFAB820A}|z16\\z16.csproj|solutionrelative:z16\\jednostka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z16\\z16\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "z16\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z16\\z16\\MainWindow.xaml",
+              "RelativeToolTip": "z16\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T18:26:34.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jednostka.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z16\\z16\\Jednostka.cs",
+              "RelativeDocumentMoniker": "z16\\Jednostka.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z16\\z16\\Jednostka.cs",
+              "RelativeToolTip": "z16\\Jednostka.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:27:13.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z16\\z16\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "z16\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z16\\z16\\MainWindow.xaml.cs",
+              "RelativeToolTip": "z16\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAowDUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:26:31.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OknoProduktow.xaml",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z16\\z16\\OknoProduktow.xaml",
+              "RelativeDocumentMoniker": "z16\\OknoProduktow.xaml",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z16\\z16\\OknoProduktow.xaml",
+              "RelativeToolTip": "z16\\OknoProduktow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T20:28:32.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OknoProduktow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z16\\z16\\OknoProduktow.xaml.cs",
+              "RelativeDocumentMoniker": "z16\\OknoProduktow.xaml.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z16\\z16\\OknoProduktow.xaml.cs",
+              "RelativeToolTip": "z16\\OknoProduktow.xaml.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwEAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:29:00.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produkt.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z16\\z16\\Produkt.cs",
+              "RelativeDocumentMoniker": "z16\\Produkt.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z16\\z16\\Produkt.cs",
+              "RelativeToolTip": "z16\\Produkt.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAlwDAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:28:03.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "Id": 1,
+    "Nazwisko": "Kowalski",
+    "Imie": "Jan",
+    "AdresZamieszkana": {
+      "Ulica": "Ulica 1",
+      "NumerDomu": "10",
+      "NumerMieszkania": 1,
+      "KodPocztowy": "00-001",
+      "Miasto": "Miasto 1"
+    },
+    "AdresDoKorespondencji": {
+      "Ulica": "Ulica 2",
+      "NumerDomu": "20",
+      "NumerMieszkania": 2,
+      "KodPocztowy": "00-002",
+      "Miasto": "Miasto 2"
+    }
+  },
+  {
+    "Id": 2,
+    "Nazwisko": "Nowak",
+    "Imie": "Anna",
+    "AdresZamieszkana": {
+      "Ulica": "Ulica 2",
+      "NumerDomu": "20",
+      "NumerMieszkania": 2,
+      "KodPocztowy": "00-002",
+      "Miasto": "Miasto 2"
+    },
+    "AdresDoKorespondencji": {
+      "Ulica": "Ulica 1",
+      "NumerDomu": "10",
+      "NumerMieszkania": 1,
+      "KodPocztowy": "00-001",
+      "Miasto": "Miasto 1"
+    }
+  }
+]

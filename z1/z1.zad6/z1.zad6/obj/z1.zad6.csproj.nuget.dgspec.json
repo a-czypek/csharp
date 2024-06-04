@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angel\\OneDrive\\Pulpit\\Kolos I Programowanie\\z1\\z1.zad6\\z1.zad6\\z1.zad6.csproj": {}
+    "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z1\\z1.zad6\\z1.zad6\\z1.zad6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angel\\OneDrive\\Pulpit\\Kolos I Programowanie\\z1\\z1.zad6\\z1.zad6\\z1.zad6.csproj": {
+    "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z1\\z1.zad6\\z1.zad6\\z1.zad6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Pulpit\\Kolos I Programowanie\\z1\\z1.zad6\\z1.zad6\\z1.zad6.csproj",
+        "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z1\\z1.zad6\\z1.zad6\\z1.zad6.csproj",
         "projectName": "z1.zad6",
-        "projectPath": "C:\\Users\\angel\\OneDrive\\Pulpit\\Kolos I Programowanie\\z1\\z1.zad6\\z1.zad6\\z1.zad6.csproj",
+        "projectPath": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z1\\z1.zad6\\z1.zad6\\z1.zad6.csproj",
         "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angel\\OneDrive\\Pulpit\\Kolos I Programowanie\\z1\\z1.zad6\\z1.zad6\\obj\\",
+        "outputPath": "C:\\Users\\angel\\OneDrive\\Pulpit\\C sharp\\z1\\z1.zad6\\z1.zad6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

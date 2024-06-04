@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "z18.zad3/1.0.0": {
+        "runtime": {
+          "z18.zad3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "z18.zad3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

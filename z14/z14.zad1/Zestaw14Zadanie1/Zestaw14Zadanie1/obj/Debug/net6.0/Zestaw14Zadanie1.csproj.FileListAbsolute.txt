@@ -1,0 +1,43 @@
+C:\Users\UE\Desktop\Zestaw14Zadanie1\Zestaw14Zadanie1\bin\Debug\net6.0\Zestaw14Zadanie1.exe
+C:\Users\UE\Desktop\Zestaw14Zadanie1\Zestaw14Zadanie1\bin\Debug\net6.0\Zestaw14Zadanie1.deps.json
+C:\Users\UE\Desktop\Zestaw14Zadanie1\Zestaw14Zadanie1\bin\Debug\net6.0\Zestaw14Zadanie1.runtimeconfig.json
+C:\Users\UE\Desktop\Zestaw14Zadanie1\Zestaw14Zadanie1\bin\Debug\net6.0\Zestaw14Zadanie1.dll
+C:\Users\UE\Desktop\Zestaw14Zadanie1\Zestaw14Zadanie1\bin\Debug\net6.0\Zestaw14Zadanie1.pdb
+C:\Users\UE\Desktop\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UE\Desktop\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.AssemblyInfoInputs.cache
+C:\Users\UE\Desktop\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.AssemblyInfo.cs
+C:\Users\UE\Desktop\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\UE\Desktop\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.dll
+C:\Users\UE\Desktop\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\refint\Zestaw14Zadanie1.dll
+C:\Users\UE\Desktop\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.pdb
+C:\Users\UE\Desktop\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.genruntimeconfig.cache
+C:\Users\UE\Desktop\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\ref\Zestaw14Zadanie1.dll
+C:\Users\angel\Downloads\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\bin\Debug\net6.0\Zestaw14Zadanie1.exe
+C:\Users\angel\Downloads\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\bin\Debug\net6.0\Zestaw14Zadanie1.deps.json
+C:\Users\angel\Downloads\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\bin\Debug\net6.0\Zestaw14Zadanie1.runtimeconfig.json
+C:\Users\angel\Downloads\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\bin\Debug\net6.0\Zestaw14Zadanie1.dll
+C:\Users\angel\Downloads\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\bin\Debug\net6.0\Zestaw14Zadanie1.pdb
+C:\Users\angel\Downloads\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.AssemblyInfo.cs
+C:\Users\angel\Downloads\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.dll
+C:\Users\angel\Downloads\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\refint\Zestaw14Zadanie1.dll
+C:\Users\angel\Downloads\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.pdb
+C:\Users\angel\Downloads\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.genruntimeconfig.cache
+C:\Users\angel\Downloads\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\ref\Zestaw14Zadanie1.dll
+C:\Users\angel\OneDrive\Pulpit\C sharp\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\bin\Debug\net6.0\Zestaw14Zadanie1.exe
+C:\Users\angel\OneDrive\Pulpit\C sharp\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\bin\Debug\net6.0\Zestaw14Zadanie1.deps.json
+C:\Users\angel\OneDrive\Pulpit\C sharp\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\bin\Debug\net6.0\Zestaw14Zadanie1.runtimeconfig.json
+C:\Users\angel\OneDrive\Pulpit\C sharp\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\bin\Debug\net6.0\Zestaw14Zadanie1.dll
+C:\Users\angel\OneDrive\Pulpit\C sharp\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\bin\Debug\net6.0\Zestaw14Zadanie1.pdb
+C:\Users\angel\OneDrive\Pulpit\C sharp\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Pulpit\C sharp\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Pulpit\C sharp\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Pulpit\C sharp\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Pulpit\C sharp\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.sourcelink.json
+C:\Users\angel\OneDrive\Pulpit\C sharp\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.dll
+C:\Users\angel\OneDrive\Pulpit\C sharp\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\refint\Zestaw14Zadanie1.dll
+C:\Users\angel\OneDrive\Pulpit\C sharp\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.pdb
+C:\Users\angel\OneDrive\Pulpit\C sharp\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\Zestaw14Zadanie1.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Pulpit\C sharp\z14.zad1\Zestaw14Zadanie1\Zestaw14Zadanie1\obj\Debug\net6.0\ref\Zestaw14Zadanie1.dll
