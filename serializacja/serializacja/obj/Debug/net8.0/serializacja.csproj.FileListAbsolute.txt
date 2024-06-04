@@ -1,0 +1,15 @@
+C:\Users\angel\OneDrive\Pulpit\C sharp\serializacja\serializacja\bin\Debug\net8.0\serializacja.exe
+C:\Users\angel\OneDrive\Pulpit\C sharp\serializacja\serializacja\bin\Debug\net8.0\serializacja.deps.json
+C:\Users\angel\OneDrive\Pulpit\C sharp\serializacja\serializacja\bin\Debug\net8.0\serializacja.runtimeconfig.json
+C:\Users\angel\OneDrive\Pulpit\C sharp\serializacja\serializacja\bin\Debug\net8.0\serializacja.dll
+C:\Users\angel\OneDrive\Pulpit\C sharp\serializacja\serializacja\bin\Debug\net8.0\serializacja.pdb
+C:\Users\angel\OneDrive\Pulpit\C sharp\serializacja\serializacja\obj\Debug\net8.0\serializacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Pulpit\C sharp\serializacja\serializacja\obj\Debug\net8.0\serializacja.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Pulpit\C sharp\serializacja\serializacja\obj\Debug\net8.0\serializacja.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Pulpit\C sharp\serializacja\serializacja\obj\Debug\net8.0\serializacja.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Pulpit\C sharp\serializacja\serializacja\obj\Debug\net8.0\serializacja.sourcelink.json
+C:\Users\angel\OneDrive\Pulpit\C sharp\serializacja\serializacja\obj\Debug\net8.0\serializacja.dll
+C:\Users\angel\OneDrive\Pulpit\C sharp\serializacja\serializacja\obj\Debug\net8.0\refint\serializacja.dll
+C:\Users\angel\OneDrive\Pulpit\C sharp\serializacja\serializacja\obj\Debug\net8.0\serializacja.pdb
+C:\Users\angel\OneDrive\Pulpit\C sharp\serializacja\serializacja\obj\Debug\net8.0\serializacja.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Pulpit\C sharp\serializacja\serializacja\obj\Debug\net8.0\ref\serializacja.dll

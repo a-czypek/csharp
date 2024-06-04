@@ -1,0 +1,23 @@
+[
+  {
+    "marka": "Toyota",
+    "model": "Yaris",
+    "rok": 2016,
+    "kolor": "Red",
+    "cena": 37000.5
+  },
+  {
+    "marka": "Peukot",
+    "model": "200",
+    "rok": 2012,
+    "kolor": "Blue",
+    "cena": 12345.67
+  },
+  {
+    "marka": "Tesla",
+    "model": "Model X",
+    "rok": 2023,
+    "kolor": "Pink",
+    "cena": 238920.58
+  }
+]

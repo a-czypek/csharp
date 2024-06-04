@@ -1,0 +1,28 @@
+﻿<Window x:Class="Zestaw17Zadanie2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zestaw17Zadanie2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Image x:Name="xxx" Grid.Row="1">
+            <Image.Source>/obrazki/obrazek.jpg</Image.Source>
+        </Image>
+        <Label x:Name="LIdentyfikator"  Content="Identyfikator:" HorizontalAlignment="Left" Margin="119,30,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="15" FontFamily="Book Antiqua"/>
+        <Label x:Name="Lnazwa" Content="Nazwa Firmy:" HorizontalAlignment="Left" Margin="119,75,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="15" FontFamily="Book Antiqua"/>
+        <Label x:Name="LOsoba" Content="Osoba kontaktowa:" HorizontalAlignment="Left" Margin="119,120,0,0" Grid.Row="1" VerticalAlignment="Top" FontFamily="Book Antiqua" FontSize="15"/>
+        <TextBox x:Name="IdTextBox" HorizontalAlignment="Center" Margin="0,35,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Foreground="#FF8AC1F4" Background="#FF8AC1F4"/>
+        <TextBox x:Name="NameTextBox" HorizontalAlignment="Center" Margin="0,125,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Foreground="#FF8AC1F4" Background="#FF8AC1F4"/>
+        <TextBox x:Name="ContactTextBox" HorizontalAlignment="Center" Margin="0,80,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Foreground="#FF8AC1F4" Background="#FF8AC1F4"/>
+        <Button x:Name="BPierwszy" Content="Pierwszy" HorizontalAlignment="Left" Margin="106,252,0,0" Grid.Row="1" VerticalAlignment="Top" BorderBrush="#FF9C0000" FontFamily="Century" Click="BPierwszy_Click"/>
+        <Button x:Name="BPoprzedni" Content="Poprzedni" HorizontalAlignment="Left" Margin="215,252,0,0" Grid.Row="1" VerticalAlignment="Top" BorderBrush="#FF9C0000" FontFamily="Century"/>
+        <Button x:Name="BNastepny" Content="Następny" HorizontalAlignment="Left" Margin="350,252,0,0" Grid.Row="1" VerticalAlignment="Top" BorderBrush="#FF9C0000" FontFamily="Century" RenderTransformOrigin="-1.465,0.78"/>
+        <Button x:Name="BOstatni" Content="Ostatni" HorizontalAlignment="Left" Margin="485,252,0,0" Grid.Row="1" VerticalAlignment="Top" BorderBrush="#FF9C0000" FontFamily="Century" RenderTransformOrigin="0.384,0.509"/>
+    </Grid>
+</Window>
